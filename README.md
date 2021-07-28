@@ -6,3 +6,5 @@
 
 ## 空调红外线库
 https://github.com/crankyoldgit/IRremoteESP8266
+
+## 请给个star吧 谢谢
