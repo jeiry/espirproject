@@ -1,0 +1,30 @@
+/**index.wxss**/
+.page__bd{
+  margin: 10px;
+}
+.lcd{
+  width: 100%;
+  background-color: coral;
+  border-radius: 20px;
+  margin-bottom: 20px;
+  color: white;
+}
+.buts{
+  margin-top: 15px;
+  text-align: center;
+  font-size: 14px;
+}
+.p1{
+  margin: 0 0 0 20px;
+  font-size: 46px;
+}
+.p2{
+  margin: 10px;
+}
+.sub-title{
+  background-color: coral;
+  border-radius: 10px;
+  margin: 20px 0 0 0;
+  padding: 10px;
+  color: white;
+}
